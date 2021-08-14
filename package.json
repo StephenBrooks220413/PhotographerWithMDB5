@@ -1,0 +1,27 @@
+{
+  "name": "codetutors",
+  "version": "1.1.0",
+  "description": "A website for offering web templates and courses on coding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StephenBrooks220413/tutoringcodes.git"
+  },
+  "keywords": [
+    "javascript",
+    "bootstrap",
+    "coding",
+    "courses",
+    "web",
+    "templates"
+  ],
+  "author": "Stephen Brooks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/StephenBrooks220413/tutoringcodes/issues"
+  },
+  "homepage": "https://github.com/StephenBrooks220413/tutoringcodes#readme"
+}
